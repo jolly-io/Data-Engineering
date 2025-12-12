@@ -106,3 +106,31 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
   * perform cost/benefit analysis and choose the right tools
   * prototype and test your system, aligning with stakeholders
 - Build, Evaluate, Iterate and Evolve your system based on stakeholder needs
+
+  Understanding Data Access Frequency:
+         * Data retrieval patterns will vary based on the data being stored and how often it is queried. Data access frequency will determine the temperature of the data. Data that is most frequently accessed is known as `hot data`.
+           Hot data is commonly retreived multiple times per day. For example, systems that service user requests
+           CRM systems, ticketting systems etc. And then, there is `lukewarm data` and `cold data` that are less frequently accessed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
