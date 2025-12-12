@@ -95,5 +95,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 - Learn what pain points or problems there with existing solutions
 - Learn what ACTION stakeholders plan to take with the data. This is very important and revealing that you may think initially
    * Repear what you learned back to your stakeholders and identify any stakeholders you still need to talk to.
-  
+
+## Thinking Like a Data Engineer
+- 
 
