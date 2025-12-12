@@ -97,5 +97,12 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
    * Repear what you learned back to your stakeholders and identify any stakeholders you still need to talk to.
 
 ## Thinking Like a Data Engineer
-- 
-
+- Identify business goals and stakeholder needs
+- Define system requirements
+  * Translate stakeholder needs to functional requirements
+  * define non-functional requirements
+  * document and confirm requirements with stakeholders
+- Choose tools and technologies to build your systems
+  * perform cost/benefit analysis and choose the right tools
+  * prototype and test your system, aligning with stakeholders
+- Build, Evaluate, Iterate and Evolve your system based on stakeholder needs
