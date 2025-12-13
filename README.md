@@ -117,6 +117,9 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 - Networking such as Amazon Virtual Private Cloud
 - Storage (object, block and file)
 - Security (shared responsibilit model)
+
+## Compute - Amazon Elastic Compute Cloud (EC2)
+- EC2 (Elastic Compute Cloud) is an example of AWS compute service which represents a virtual or virtual machine.
  
 
 
