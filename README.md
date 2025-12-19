@@ -116,10 +116,10 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 - Compute Services such as EC2
 - Networking such as Amazon Virtual Private Cloud
 - Storage (object, block and file)
-    * Object storage is often used for storing unstructured data
-    * Block storage is used for database storage, virtual machine file systems, and other low-latency environments
-    * 
-- Security (shared responsibilit model)
+    * Object storage is often used for storing unstructured data. e.g Amazon S3.
+    * Block storage is used for database storage, virtual machine file systems, and other low-latency environments. e.g Amazon Elastic Block Storage (EBS)
+    *    * 
+- Security (AWS shared responsibilit model)
 
 ## Compute - Amazon Elastic Compute Cloud (EC2)
 - EC2 (Elastic Compute Cloud) is an example of AWS compute service which represents a virtual servers or virtual machine. A server is like a computer or set of computers that hosts and runs your applications. It consists of physical hardware (CPU, RAM, Storage, Networking components), an operating system installed on top the hardware, and finally the applications that run on top of the operating system.
