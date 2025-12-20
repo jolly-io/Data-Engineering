@@ -92,9 +92,9 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 
 ## Key Elements of Requirement Gathering
 - Learn what existing data systems or solutions are in place
-- Learn what pain points or problems there with existing solutions
+- Learn what pain points or problems there are with existing solutions
 - Learn what ACTION stakeholders plan to take with the data. This is very important and revealing that you may think initially
-   * Repear what you learned back to your stakeholders and identify any stakeholders you still need to talk to.
+   * Repeat what you learned back to your stakeholders for alignment and identify any stakeholders you still need to talk to.
 
 ## Thinking Like a Data Engineer
 - Identify business goals and stakeholder needs
