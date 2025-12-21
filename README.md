@@ -59,7 +59,7 @@ In general, the role of a data engineer evolves from a generalist to a specialis
 
 ## Business Responsibilites of a Data Engineer
 - Understand how to scope and gather business and product requirements
-- Know how to communicate with nontechnical and technical people
+- Know how to communicate with nontechnical and technical stakeholders in the organization
 - Understand the foundations of Agile, DevOps and DataOps
 - Control Costs
 - Learn Continuously
