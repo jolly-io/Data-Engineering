@@ -164,6 +164,57 @@ Pandas is the primary tool data scientist for exploring and manipulating data. T
 
 `import pandas as pd` is the command we use to provision the pandas library when analyzing a dataset.
 
+The Eight Number Summary Statistics. 
+- The pandas describe()  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
