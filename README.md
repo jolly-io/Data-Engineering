@@ -53,7 +53,7 @@ Storage is happening constantly across the entire lifecycle of the data engineer
 - Software Engineering
 
 ## Concept of Data Maturity: 
-Data Maturity is the progression from basic towards advanced data utilization, capabilities, and integration across the organization. An Organization's Data Maturity is not a factor of the age or revenue of a company. Typically companies fall within one or more of these stages on their data maturity evolution
+Data Maturity in an any organization is the progression from basic towards advanced data utilization, capabilities, and integration across the organization. An Organization's Data Maturity is not a factor of the age or revenue of a company. Typically companies fall within one or more of these stages on their data maturity evolution
 - `Starting with Data`
 - `Scaliing with Data`
 - `Leading with Data`
