@@ -168,7 +168,7 @@ The Eight Number Summary Statistics.
 - The pandas `describe()` method is used to calculate and provide an eight-number summary statistics of the data frame. These include
   * count (number of rows)
   * mean
-  * standard deviation,
+  * standard deviation
   * mininum value,
   * maximum value,
   * Twenty-fifth percentile,
