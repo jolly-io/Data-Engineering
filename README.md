@@ -118,6 +118,8 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 
 `Cloud Computing` is the on-demand delivery of information technology (IT) resources over the internet with pay-as-you-go pricing. AWS is structured geographically across regions with multiple availability zones, which are clusters of one or more physical data centers. 
 
+*Each AWS region contains at least 3 isolated and physically separated availability zones. Each availability zone contains a group of one or more discrete data centers with redundant power, networking and physical security.*
+
 ## AWS Core Services
 - Compute Services such as EC2
 - Networking such as Amazon Virtual Private Cloud
