@@ -120,8 +120,10 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 
 *Each AWS region contains at least 3 isolated and physically separated availability zones. Each availability zone contains a group of one or more discrete data centers with redundant power, networking and physical security.*
 
+A Virtual Server is a software representation or emulation of an actual physical server.
+
 ## AWS Core Services
-- Compute Services such as EC2
+- Compute Services such as EC2. EC2 is a virtual server in the AWS cloud.
 - Networking such as Amazon Virtual Private Cloud
 - Storage (object, block and file)
     * Object storage is often used for storing unstructured data. e.g Amazon Simple Storage Service (S3)
