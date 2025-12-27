@@ -125,6 +125,8 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 
 A Virtual Server is a software representation or emulation of an actual physical server.
 
+A Virtual Private Cloud (VPC) exists inside a region, which can contain more than one VPC, and a VPC spans multiple  availability zones within the region.
+
 ## AWS Core Services
 - Compute Services such as AWS Elastic Compute Cloud (EC2). EC2 is a virtual server in the AWS cloud.
 - Networking such as Amazon Virtual Private Cloud
