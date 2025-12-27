@@ -132,7 +132,7 @@ A Virtual Server is a software representation or emulation of an actual physical
     * Object storage is often used for storing unstructured data. e.g Amazon Simple Storage Service (S3)
     * Block Storage is used for database storage, virtual machine file systems, and other low-latency environments. e.g Amazon Elastic Block Storage (EBS)
     * File Storage is used to organize data into files and directories in a hierarchical structure. e.g Amazon Elastic File System (EFS)
-- Security (AWS shared responsibilit model)
+- Security (AWS shared responsibility model)
 
 ## Compute - Amazon Elastic Compute Cloud (EC2)
 - EC2 (Elastic Compute Cloud) is an example of AWS compute service which represents a virtual servers or virtual machine. A server is like a computer or set of computers that hosts and runs your applications. It consists of physical hardware (CPU, RAM, Storage, Networking components), an operating system installed on top the hardware, and finally the applications that run on top of the operating system.
