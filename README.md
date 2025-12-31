@@ -30,7 +30,8 @@ Data Engineering is the development, implementation, and maintenance of systems 
     stages of the data engineering lifecyle. For instance, cloud warehouses can store data, process data in pipelines, and serve it to analysts. Streaming frameworks such as Apache Kafka, and Pulsar can ingest, store and query systems for messages, with object storage being a standard layer for data transmission.
 
         Understanding Data Access Frequency:
-         * Data retrieval patterns will vary based on the data being stored and how often it is queried. Data access frequency will determine the temperature of the data. Data that is most frequently accessed is known as `hot data`.
+         * Data retrieval patterns will vary based on the data being stored and how often it is queried.
+         Data access frequency will determine the temperature of the data. Data that is most frequently accessed is known as `hot data`.
            Hot data is commonly retreived multiple times per day. For example, systems that service user requests
            CRM systems, ticketting systems etc. And then, there is `lukewarm data` and `cold data` that are less frequently accessed.
 -  `Ingestion`:
