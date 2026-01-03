@@ -39,6 +39,7 @@ As a data engineer, developing and having a good working relationship with the s
          Data access frequency will determine the temperature of the data. Data that is most frequently accessed is known as `hot data`.
            Hot data is commonly retreived multiple times per day. For example, systems that service user requests
            CRM systems, ticketting systems etc. And then, there is `lukewarm data` and `cold data` that are less frequently accessed.
+    
 -  `Ingestion`:
       * Source systems and Ingestion presents the most significant bottle-necks of the data engineering lifecycle. This is because the engineer has little to no control of the management of these two processes. Unreliable source and ingestion systems have ripple effects across the data engineering lifecyle. To architect and build a system, the following considerations are critical to keep in mind:
         - What are the use cases for the data being ingested? Is the data good for reuse rather than creating multiple versions of the same dataset?
@@ -52,6 +53,8 @@ As a data engineer, developing and having a good working relationship with the s
           `Batch Ingestion`: is a convenient way to process stream of events in large chunks based on a predetermined time interval or on a preset            size threshold. E.g an entire day's worth of data can he handled in a single batch. This is a practical and widely used way of                     processing data for analytics and machine learning.
           
           `Streaming Ingestion`: is providing continuous, near real-time fashion data ingestion. In this case, data is provided shortly after it              is produced, usually in less than a second. Specific tools such as event-streaming platform and message queues to continuously ingest                   stream of events.
+
+        Streaming Ingestion is not necessarily the best choice for all use cases.
 
       *Before choosing streaming ingestion, it's best to indentify a business use-case that justifies the trade-offs of using stream over batch ingestion.*
           
