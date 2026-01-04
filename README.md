@@ -56,7 +56,7 @@ As a data engineer, developing and having a good working relationship with the s
 
       *Before choosing streaming ingestion, it's best to indentify a business use-case that justifies the trade-offs of using stream over batch ingestion.*
           
--  `Transformation`
+-  `Transform-ation`
 -  `Serving`
 
   There is also the notion of `undercurrents` - these are critical themes and concepts around the end-to-end data lifecycle. These include the following
