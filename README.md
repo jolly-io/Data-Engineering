@@ -52,7 +52,7 @@ As a data engineer, developing and having a good working relationship with the s
           
           `Streaming Ingestion`: is providing continuous, near real-time fashion data ingestion. In this case, data is provided shortly after it is produced, usually in less than a              second. Specific tools such as event-streaming platform and message queues to continuously ingest stream of events.
 
-        Streaming Ingestion is not necessarily the best choice for all use cases.Before using a streaming solution, you should first consider things like real-time actions, time, maintenance costs and downtime
+        Streaming Ingestion is not necessarily the best choice for all use cases.Before using a streaming solution, you should first consider things like real-time actions, time, maintenance costs and downtime. Generally, streaming ingestion usually coexist with Batch ingestion for most workloads.
 
       *Before choosing streaming ingestion, it's best to indentify a business use-case that justifies the trade-offs of using stream over batch ingestion.*
           
